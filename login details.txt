@@ -1,0 +1,2 @@
+ doctor login e-mail: admin@gmail.com
+ password is 123456789.
